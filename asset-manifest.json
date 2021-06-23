@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/snake_react/static/css/main.db46e41a.chunk.css",
-    "main.js": "/snake_react/static/js/main.93933cc1.chunk.js",
-    "main.js.map": "/snake_react/static/js/main.93933cc1.chunk.js.map",
+    "main.css": "/snake_react/static/css/main.147031cb.chunk.css",
+    "main.js": "/snake_react/static/js/main.f11f61eb.chunk.js",
+    "main.js.map": "/snake_react/static/js/main.f11f61eb.chunk.js.map",
     "runtime-main.js": "/snake_react/static/js/runtime-main.76b1ca1e.js",
     "runtime-main.js.map": "/snake_react/static/js/runtime-main.76b1ca1e.js.map",
     "static/css/2.ef9168ec.chunk.css": "/snake_react/static/css/2.ef9168ec.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.0419cf12.chunk.js.map": "/snake_react/static/js/2.0419cf12.chunk.js.map",
     "index.html": "/snake_react/index.html",
     "static/css/2.ef9168ec.chunk.css.map": "/snake_react/static/css/2.ef9168ec.chunk.css.map",
-    "static/css/main.db46e41a.chunk.css.map": "/snake_react/static/css/main.db46e41a.chunk.css.map",
+    "static/css/main.147031cb.chunk.css.map": "/snake_react/static/css/main.147031cb.chunk.css.map",
     "static/js/2.0419cf12.chunk.js.LICENSE.txt": "/snake_react/static/js/2.0419cf12.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.76b1ca1e.js",
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.0419cf12.chunk.js",
-    "static/css/main.db46e41a.chunk.css",
-    "static/js/main.93933cc1.chunk.js"
+    "static/css/main.147031cb.chunk.css",
+    "static/js/main.f11f61eb.chunk.js"
   ]
 }
